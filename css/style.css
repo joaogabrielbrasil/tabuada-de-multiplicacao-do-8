@@ -1,0 +1,153 @@
+body {
+    background-color:rgba(248, 250, 255, 0.801);
+}
+
+#multiplicacao1 {
+    margin-top:1%;
+    margin-left:2%;
+    position:absolute;
+}
+/*               
+#oito1 {
+    
+     
+}
+*/
+#multiplicacao2 {
+    margin-top:4%;                       
+    margin-left:2%;
+    position:absolute;
+}
+/*
+#oito2 {
+    position:absolute;
+    top:15%;
+    left:0.5%;
+}
+*/
+#multiplicacao3 {
+    margin-top:7%;
+    margin-left:2%;
+    position:absolute;
+}
+/*
+#oito3 {
+    position:absolute;
+    top:19%;
+    left:0.5%;
+}
+*/
+#multiplicacao4 {
+    margin-top:10%;
+    margin-left:2%;
+    position:absolute;
+}
+/*
+#oito4 {
+    position:absolute;
+    top:23%;
+    left:0.5%;
+}
+*/
+#multiplicacao5 {
+    margin-top:13%;
+    margin-left:2%;
+    position:absolute;
+}
+/*
+#oito5 {
+    position:absolute;
+    top:27%;
+    left:0.5%;
+}
+*/
+#multiplicacao6 {
+    margin-top:16%;
+    margin-left:2%;
+    position:absolute;
+}
+/*
+#oito6 {
+    position:absolute;
+    top:31%;
+    left:0.5%;
+}
+*/
+#multiplicacao7 {
+    margin-top:19%;
+    margin-left:2%;
+    position:absolute;
+}
+/*
+#oito7 {
+    position:absolute;
+    top:35%;
+    left:0.5%;
+}
+*/
+#multiplicacao8 {
+    margin-top:22%;
+    margin-left:2%;
+    position:absolute;
+}
+/*
+#oito8 {
+    position:absolute;
+    top:39%;
+    left:0.5%;
+}
+*/
+#multiplicacao9 {
+    margin-top:25%;
+    margin-left:2%;
+    position:absolute;
+}
+/*
+#oito9 {
+    position:absolute;
+    top:43%;
+    left:0.5%;
+}
+*/
+#multiplicacao10 {
+    margin-top:28%;
+    margin-left:2%;
+    position:absolute;
+}
+/*
+#oito10 {
+    position:absolute;
+    top:47%;
+    left:0.5%;
+}
+*/
+#multiplicar {
+    font-size:1.2em;
+    padding:0.8em 0.8em;
+    background:#59425d;
+    border:0;
+    color:#ffffff;
+    border-radius: 9px;
+    position:absolute;
+    top:56%;
+    left:4%;
+
+}
+
+#multiplicar:hover {
+    background:#ccbbff;
+}
+
+input {
+    border-radius: 5px;
+    border-color:#ccbbff;
+}
+
+#plano-de-fundo {
+    background: rgba(204, 205, 209, 0.801);
+    width:270px;
+    height:500px;
+    border-radius: 20px;
+}
+
+
